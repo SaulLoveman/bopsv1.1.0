@@ -103,7 +103,7 @@ function App() {
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
     CONTRACT_ADDRESS: "0x451C06f7063D16E35B5Fbe01768946BCABffE499",
-    SCAN_LINK: "https://etherscan.io/token/0x451C06f7063D16E35B5Fbe01768946BCABffE499",
+    SCAN_LINK: "https://etherscan.io/address/0x451C06f7063D16E35B5Fbe01768946BCABffE499",
     NETWORK: {
       NAME: "ethereum",
       SYMBOL: "eth",
@@ -114,7 +114,7 @@ function App() {
     MAX_SUPPLY: 666,
     WEI_COST: 66600000000000000,
     DISPLAY_COST: 0.0222,
-    GAS_LIMIT: 300000,
+    GAS_LIMIT: 285000,
     MARKETPLACE: "opensea",
     MARKETPLACE_LINK: "https://opensea.io/collection/bopsv1",
     SHOW_BACKGROUND: false,
