@@ -16,7 +16,7 @@ const blockchainReducer = (state = initialState, action) => {
     case "CONNECTION_SUCCESS":
       return {
         ...state,
-        loading: false,
+        loading: true,
         account: action.payload.account,
         smartContract: action.payload.smartContract,
         web3: action.payload.web3,
