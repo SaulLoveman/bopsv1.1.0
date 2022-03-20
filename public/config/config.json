@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x451C06f7063D16E35B5Fbe01768946BCABffE499",
+  "SCAN_LINK": "https://etherscan.com/token/0x451C06f7063D16E35B5Fbe01768946BCABffE499",
+  "NETWORK": {
+    "NAME": "ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1,
+  },
+  "NFT_NAME": "Bops By Boplord",
+  "SYMBOL": "BOP$",
+  "MAX_SUPPLY": 666,
+  "WEI_COST": 66600000000000000,
+  "DISPLAY_COST": 0.0222,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Bopsv1",
+  "SHOW_BACKGROUND": true
+}
