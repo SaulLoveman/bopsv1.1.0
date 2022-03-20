@@ -11,8 +11,8 @@
   "MAX_SUPPLY": 666,
   "WEI_COST": 66600000000000000,
   "DISPLAY_COST": 0.0222,
-  "GAS_LIMIT": 300000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/bopsv1",
-  "SHOW_BACKGROUND": true
+  "SHOW_BACKGROUND": false
 }
