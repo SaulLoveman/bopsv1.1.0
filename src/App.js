@@ -106,7 +106,7 @@ function App() {
     SCAN_LINK: "https://etherscan.io/token/0x451C06f7063D16E35B5Fbe01768946BCABffE499",
     NETWORK: {
       NAME: "ethereum",
-      SYMBOL: "ETH",
+      SYMBOL: "eth",
       ID: 1,
     },
     NFT_NAME: "Bops By BopLord",
