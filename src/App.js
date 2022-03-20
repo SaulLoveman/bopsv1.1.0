@@ -383,7 +383,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--accent-text)",
+              color: "var(--primary -text)",
             }}
           >
             Please make sure you are connected to the right network (
@@ -394,7 +394,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--accent-text)",
+              color: "var(--primary-text)",
             }}
           >
             We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
