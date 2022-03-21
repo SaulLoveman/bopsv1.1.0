@@ -385,10 +385,9 @@ function App() {
               textAlign: "center",
               color: "var(--primary -text)",
             }}
-          >
-            Please make sure you are connected to the right network (
-            {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-            Once you make the purchase, you cannot undo this action.
+            
+            
+          
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
@@ -396,10 +395,12 @@ function App() {
               textAlign: "center",
               color: "var(--primary-text)",
             }}
-          >
-            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit.
+           >The Bops NFTs are live on the ethereum mainnet. 
+             <s.SpacerMedium />
+            we have set the gas to 285000, we recommend not to lower the limit,
+            it has already been optimized at the lowest gas possible
+            for this project.
+            
           </s.TextDescription>
         </s.Container>
       </s.Container>
