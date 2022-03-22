@@ -385,7 +385,10 @@ function App() {
               textAlign: "center",
               color: "var(--primary -text)",
             }}
-            
+           >Collection on OpenSea: <a>https://opensea.io/collection/bopsv1<a/> 
+            Official Twitter:<a>https://twitter.com/bops_nft<a/> 
+            Etherscan Contract:<a>https://etherscan.io/address/0x451c06f7063d16e35b5fbe01768946bcabffe499<a/> 
+ 
             
           
           </s.TextDescription>
