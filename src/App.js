@@ -30,7 +30,7 @@ export const StyledButton = styled.button`
 
 export const StyledRoundButton = styled.button`
   padding: 10px;
-  border-radius: 100%;
+  border-radius: 0%;
   border: none;
   background-color: var(--primary);
   padding: 10px;
@@ -76,7 +76,7 @@ export const StyledLogo = styled.img`
 
 export const StyledImg = styled.img`
   box-shadow: 0px 5px 11px 2px rgba(0, 0, 0, 0.7);
-  border: 14px solid var(--secondary);
+  border: 14 px solid var(--secondary);
   background-color: var(--accent);
   border-radius: 0;
   width: 200px;
