@@ -1,5 +1,5 @@
 const initialState = {
-  loading: true,
+  loading: false,
   totalSupply: 92,
   cost: 0.0222,
   error: false,
@@ -11,7 +11,7 @@ const dataReducer = (state = initialState, action) => {
     case "CHECK_DATA_REQUEST":
       return {
         ...state,
-        loading: true,
+        loading: false,
         error: false,
         errorMsg: "",
       };
